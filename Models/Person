@@ -1,0 +1,16 @@
+namespace demomvc.Models
+{
+    public class Person
+    {
+        public string Idcard { get; set;}
+        public string FullName { get; set;}
+        public string Hometown { get; set;}
+
+        public Person(string idCard, string fullName, string hometown)
+        {
+            Idcard = idCard;
+            FullName = fullName;
+            Hometown = hometown;
+        }
+    }
+}
