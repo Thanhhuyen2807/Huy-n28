@@ -1,0 +1,33 @@
+@model demomvc.Model.Person
+@{
+    ViewData["Title"] = "Edit";
+}
+<h1>Edit</h1>
+<h4>Person</h4>
+<hr />
+<div class="row">
+    <div class="clol-md-4">
+        <form asp-action="Edit">
+            <div class="Form-group">
+                <label asp-for="FullName" class="control-label"> </label>
+                <input asp-for="FullName" class="form-control" />
+                <span asp-validation-for="FullName" class="text-danget"></span>
+            </div>
+            <div class="Form-group">
+                <label asp-for="Address" class="control-label"> </label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danget"></span>
+            </div>
+            <div class="Form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

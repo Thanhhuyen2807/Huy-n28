@@ -8,6 +8,7 @@ namespace demomvc.Data
         public ApplicationDbcontext(DbContextOptions<ApplicationDbcontext> options) : base(options)
         {}
        public DbSet<Person> Persons { get; set;}
+       public DbSet<Person> Employee { get; set;}
     }
     
 }
