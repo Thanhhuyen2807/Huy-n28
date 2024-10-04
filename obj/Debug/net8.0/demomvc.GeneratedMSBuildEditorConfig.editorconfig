@@ -26,84 +26,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\Huyen135\demomvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Employee/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xFbXBsb3llZVxDcmVhdGUuY3NodG1s
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Employee/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xFbXBsb3llZVxEZWxldGUuY3NodG1s
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Employee/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xFbXBsb3llZVxFZGl0LmNzaHRtbA==
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Employee/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xFbXBsb3llZVxJbmRleC5jc2h0bWw=
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Home/Demo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xIb21lXERlbW8uY3NodG1s
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Person/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/person/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xwZXJzb25caW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/student/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xzdHVkZW50XENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/student/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xzdHVkZW50XERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/student/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xzdHVkZW50XEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/student/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xzdHVkZW50XGluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Home/Demo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/person/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXGluZGV4LmNzaHRtbA==
+[C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Shared/Error.cshtml]
@@ -121,10 +73,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Admin/Desktop/Huyen135/demomvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Admin/Desktop/Huyen135/demomvc/demomvc/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = ZGVtb212Y1xWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-rnrouncqqu
 
 [C:/Users/Admin/Desktop/Huyen135/demomvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
