@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PTPMQL\\demomvc\\demomvc.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc.csproj": {}
   },
   "projects": {
-    "D:\\PTPMQL\\demomvc\\demomvc.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PTPMQL\\demomvc\\demomvc.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc.csproj",
         "projectName": "demomvc",
-        "projectPath": "D:\\PTPMQL\\demomvc\\demomvc.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PTPMQL\\demomvc\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

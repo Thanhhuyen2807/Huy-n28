@@ -1,7 +1,6 @@
 using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
 using demomvc.Models;
-using System.Net.Sockets;
+using Microsoft.AspNetCore.Mvc;
 
 namespace demomvc.Controllers;
 
@@ -38,6 +37,6 @@ public class HomeController : Controller
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        return View(new ErrorViewModels { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace demomvc.Models
 {
   [Table("Persons")]
-  public class Person
+  public class Persons
   {
     [Key]
     public string PersonId { get; set; }

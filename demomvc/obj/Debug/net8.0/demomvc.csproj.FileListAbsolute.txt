@@ -276,3 +276,12 @@ D:\PTPMQL\demomvc\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Cachin
 D:\PTPMQL\demomvc\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\PTPMQL\demomvc\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\PTPMQL\demomvc\obj\Debug\net8.0\demomvc.csproj.Up2Date
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Huyen135\demomvc\demomvc\obj\Debug\net8.0\demomvc.sourcelink.json

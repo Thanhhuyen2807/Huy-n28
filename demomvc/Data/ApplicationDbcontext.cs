@@ -7,10 +7,9 @@ namespace demomvc.Data
     {
         public ApplicationDbcontext(DbContextOptions<ApplicationDbcontext> options) : base(options)
         {}
-        public DbSet<Persons> Person { get; set;}
+       public DbSet<Person> Persons { get; set;}
+       public DbSet<Person> Employee { get; set;}
+        public DbSet<Person> Students  { get; set; }
     }
-
-    public class Persons
-    {
-    }
+    
 }
