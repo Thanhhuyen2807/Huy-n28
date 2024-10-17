@@ -4,7 +4,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace demomvc.Models
 {
   [Table("Persons")]
+<<<<<<< HEAD
   public class Person
+=======
+  public class Persons
+>>>>>>> parent of fc2878c (commit note)
   {
     [Key]
     public string PersonId { get; set; }

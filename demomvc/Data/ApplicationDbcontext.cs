@@ -7,10 +7,18 @@ namespace demomvc.Data
     {
         public ApplicationDbcontext(DbContextOptions<ApplicationDbcontext> options) : base(options)
         {}
+<<<<<<< HEAD
         public DbSet<Persons> Person { get; set;}
     }
 
     public class Persons
     {
     }
+=======
+       public DbSet<Person> Persons { get; set;}
+       public DbSet<Person> Employee { get; set;}
+        public DbSet<Person> Students  { get; set; }
+    }
+    
+>>>>>>> parent of fc2878c (commit note)
 }

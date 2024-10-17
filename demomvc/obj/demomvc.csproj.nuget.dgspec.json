@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\PTPMQL\\demomvc\\demomvc.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\PTPMQL\\demomvc\\demomvc.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\PTPMQL\\demomvc\\obj\\",
+=======
+    "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc\\demomvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc\\demomvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc\\demomvc.csproj",
+        "projectName": "demomvc",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc\\demomvc.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc\\obj\\",
+>>>>>>> parent of fc2878c (commit note)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

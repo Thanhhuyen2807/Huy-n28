@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "UtqWF7esP4s=",
   "success": true,
   "projectFilePath": "D:\\PTPMQL\\demomvc\\demomvc.csproj",
+=======
+  "dgSpecHash": "rUrOpfmLn9Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Huyen135\\demomvc\\demomvc\\demomvc.csproj",
+>>>>>>> parent of fc2878c (commit note)
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
