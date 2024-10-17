@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using DemoMVC.Data;
-using DemoMVC.Models;
+using demomvc.Data;
+using demomvc.Models;
 
-namespace DemoMVC.Controllers
+namespace demomvc.Controllers
 {
     public class PersonController : Controller
     {
