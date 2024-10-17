@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("demomvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+525652e2eb9bf39aa4f8924abadebd38de8a8f7c")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9cfd1a9f27390f50ed8cd6e331cb27d27ff76fa")]
->>>>>>> parent of fc2878c (commit note)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ad9ff6d53378200cb821676af4667d3af52bb05")]
 [assembly: System.Reflection.AssemblyProductAttribute("demomvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demomvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
