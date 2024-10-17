@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>Nguyễn Thị Thanh Huyền 2121051080</h1>
+<p class="p1"> Nguyễn Thị Thanh Huyền 2121051080</p>
+<p class="p2">Nguyễn Thị Thanh Huyền 2121051080</p>
+<p class="p3">Nguyễn Thị Thanh Huyền 2121051080</p>
+
+</body>
+</html>

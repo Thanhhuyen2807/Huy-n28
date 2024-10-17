@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {outline-color:red;}
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+p.ridge {outline-style: ridge;}
+p.inset {outline-style: inset;}
+p.outset {outline-style: outset;}
+</style>
+</head>
+<body>
+
+<h2>
+Nguyễn Thị Thanh Huyền 2121051080
+</h2>
+
+<p class="dotted">
+ Nguyễn Thị Thanh Huyền 2121051080
+</p>
+<p class="dashed">
+Nguyễn Thị Thanh Huyền 2121051080
+</p>
+<p class="solid">
+Nguyễn Thị Thanh Huyền 2121051080
+</p>
+<p class="double">
+Nguyễn Thị Thanh Huyền 2121051080
+</p>
+<p class="groove">
+Nguyễn Thị Thanh Huyền 2121051080
+</p>
+<p class="ridge">
+Nguyễn Thị Thanh Huyền 2121051080
+</p>
+<p class="inset">
+Nguyễn Thị Thanh Huyền 2121051080
+</p>
+<p class="outset">
+Nguyễn Thị Thanh Huyền 2121051080
+</p>
+
+</body>
+</html>

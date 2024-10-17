@@ -1,5 +1,0 @@
-public class Employee : Person
-        {
-            public string EmployeeID { get; set; } // Chức vụ
-            public decimal Luong { get; set; } // Lương
-        }
